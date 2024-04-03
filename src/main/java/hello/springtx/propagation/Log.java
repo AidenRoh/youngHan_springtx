@@ -3,7 +3,6 @@ package hello.springtx.propagation;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
-import java.security.PrivateKey;
 import lombok.Getter;
 import lombok.Setter;
 
